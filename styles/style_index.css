@@ -235,13 +235,13 @@ body {
 }
 
 .process__step:hover {
-  opacity: 0.8;
   cursor: pointer;
   -webkit-transition: .3s;
   transition: .3s;
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.6);
           box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.6);
-  background: #FF79DA ;
+          background: #efe6fa;
+          box-shadow: 1px 5px 8px 1px #e4d5f6;      
 }
 
 .process__number {
